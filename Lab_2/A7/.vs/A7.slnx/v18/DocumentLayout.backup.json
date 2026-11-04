@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kopam\\source\\repos\\Lab_2\\A7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{712C5D50-D9A3-42CA-A94B-8410DF5F2359}|A7\\A7.pyproj|C:\\Users\\kopam\\source\\repos\\Lab_2\\A7\\A7\\A7.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{712C5D50-D9A3-42CA-A94B-8410DF5F2359}|A7\\A7.pyproj|solutionrelative:A7\\A7.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "A7.py",
+              "DocumentMoniker": "C:\\Users\\kopam\\source\\repos\\Lab_2\\A7\\A7\\A7.py",
+              "RelativeDocumentMoniker": "A7\\A7.py",
+              "ToolTip": "C:\\Users\\kopam\\source\\repos\\Lab_2\\A7\\A7\\A7.py",
+              "RelativeToolTip": "A7\\A7.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-12T07:20:47.333Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

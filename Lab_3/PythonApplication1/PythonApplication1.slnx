@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="A2/A2.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52" Id="ff0ee6d3-b1bf-4470-8117-99f172325fae">
+    <Build Project="false" />
+  </Project>
+  <Project Path="PythonApplication1/PythonApplication1.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52" Id="59e2a94b-91e5-4b3a-946a-281dc48edd7d">
+    <Build Project="false" />
+  </Project>
+</Solution>
