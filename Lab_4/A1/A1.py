@@ -2,7 +2,7 @@ import random
 import time
 
 
-N = int(input("Введите количество примеров N: "))
+N = int(input("Введите количество примеров: "))
 
 correct_count = 0  
 total_time = 0.0  
@@ -26,7 +26,7 @@ for i in range(N):
             break  
         except ValueError:
 
-            print("Пожалуйста, введите целое число!")
+            print("Пожалуйста, введите целое число")
 
 
     if answer == a * b:
@@ -34,14 +34,10 @@ for i in range(N):
         correct_count += 1
     else:
         print(f"Неправильно. Правильный ответ: {a * b}")
-
-
 average_time = total_time / N if N > 0 else 0
 success_percentage = (correct_count / N) * 100 if N > 0 else 0
-
 print("\n--- Статистика ---")
 print(f"Общее время, затраченное на ответы: {total_time:.2f} сек.")
 print(f"Среднее время на один пример: {average_time:.2f} сек.")
 print(f"Количество правильных ответов: {correct_count}")
 print(f"Процент правильных ответов: {success_percentage:.1f}%")
-
